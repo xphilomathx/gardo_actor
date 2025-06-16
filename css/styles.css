@@ -10929,7 +10929,7 @@ hr.divider-light {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(210, 210, 210,0.3) 0%, rgba(60, 60, 60, 0.8) 100%), url("/gardo_actor/assets/img/portfolio/fullsize/HS6.jpg");
+  background: linear-gradient(to bottom, rgba(210, 210, 210,0.3) 0%, rgba(60, 60, 60, 0.8) 100%), url("../assets/img/HS6.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
